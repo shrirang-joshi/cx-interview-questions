@@ -1,3 +1,3 @@
 ## Tests
 
-Please put your tests in this directory.
+All the test_*.py are tested using pytest

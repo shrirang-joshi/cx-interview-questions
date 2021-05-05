@@ -1,0 +1,5 @@
+{
+  "B1G1F": { "buy": 1, "free": 1},
+  "B2G1F": { "buy": 2, "free": 1},
+  "20PCT": { "discount": 20}
+}
